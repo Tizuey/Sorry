@@ -1,0 +1,100 @@
+/* link fonte: roboto light */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+/* configuração geral */
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+/* Confg. geral do corpinho */
+body{
+    font-family: roboto light;
+    /* display: flex;
+    align-items: center;
+    justify-content:center;
+    min-height: 100vh; */
+    background-color:#36a6c3 ;
+}
+
+/* torna o video com background */
+.bg_video{
+    
+}
+a{
+    margin: auto 0 auto 0 ;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
+.a{
+  
+    height: 50px;
+    width: 300px;
+
+}
+ a:hover{
+     color: #2f4c53;
+ }
+
+
+
+
+
+/* maquiar o butão
+button{
+    background-color:#36a6c3 ;
+    color: #ffff;
+    border: 0ch;
+    border-radius: 5px;
+    padding: 10px 25px ;
+    box-shadow: 0 2px 4px rgba(0,0,0, 0.2);
+    font-size: 19px;
+}
+
+.modal-container{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: rgb(201, 201, 201);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.modal-container.show{
+    opacity: 1;
+    pointer-events: auto;
+
+}
+
+.modal{
+   background-color: #ffff;
+   border-radius: 8px;
+   padding: 30px 50px;
+   width: 800px ;
+   max-width: 100%;
+   box-shadow: 0 2px 4px rgba(0,0,0, 0.2);
+   text-align: center;
+}
+
+.modal h1{
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.modal h3{
+    opacity: 0.6;
+    margin-bottom: 8px;
+}
+
+.modal p{
+    font-family:inconsolata ;
+    font-size: 19px;
+    color: #0b7792;
+} */
